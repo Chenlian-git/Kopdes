@@ -1,0 +1,14 @@
+# Firebase credentials
+backend/firebase-service-account.json
+backend/*-firebase-adminsdk-*.json
+
+# Maven
+backend/target/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

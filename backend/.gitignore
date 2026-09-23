@@ -1,0 +1,6 @@
+# Firebase credentials
+*-firebase-adminsdk-*.json
+firebase-service-account.json
+
+# Maven
+target/
